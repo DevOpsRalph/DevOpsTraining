@@ -1,2 +1,4 @@
 this is my first try
 I'm liking it
+a new line
+is being added
